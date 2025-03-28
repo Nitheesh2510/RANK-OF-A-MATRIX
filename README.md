@@ -19,7 +19,13 @@ B = np.linalg.matrix_rank(A)
 print(B)
 ```
 ## Output:
-![Screenshot 2025-03-12 132301](https://github.com/user-attachments/assets/0459a7ed-fb54-428f-8cef-8099f0d16a19)
+
+
+
+
+![Screenshot 2025-03-28 142858](https://github.com/user-attachments/assets/16dab41a-17ac-40ec-b821-f4054bc820fd)
+
+
 ## Result:
 
 Thus the rank for the given matrix is successfully solved by  using a python program.
